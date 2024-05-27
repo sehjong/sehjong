@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-CO&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
-<h3 align="center">I'm a full stack software engineer with a focus in web development. I love renewable energy and have been following the industry for years. I'm an intellectual curiosity-seeker, and my inquisitiveness drives me to learn anything I can. I'm also an extremely fast learner—I believe in being able to pick up new skills quickly and efficiently. If you're looking for someone with an open mind and an eagerness to collaborate on a team, I'd love to hear from you!</h3>
+<h3 align="center">I'm a full stack software engineer with a focus in web development. I have a deep interest in AI and a passion for renewable energy. I thrive in collaborative environments and am always eager to contribute to a team. If you're looking for someone with an open mind and an eagerness to collaborate, I'd love to hear from you!</h3>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
