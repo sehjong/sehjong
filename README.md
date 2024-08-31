@@ -32,6 +32,46 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Non-Profit Organization</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sehjong/non-profit-client-website">
+            <img src="images/non-profit-client-website.png" width="100%" alt="Client Website Preview"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://github.com/sehjong/non-profit-client-website" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://lets-go-higher-ministries-a3ff7a.ingress-haven.ewp.live/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>HTML, CSS, JavaScript, PHP</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Professional Speaker</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sehjong/professional-speaker-client-website">
+            <img src="images/professional-speaker-client-website.png" width="100%" alt="Client Website Preview"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://github.com/sehjong/professional-speaker-client-website" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://johndungy.com/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>HTML, SCSS, CSS, JavaScript</p>
+    </td>
+    
+    
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Poetic Google OAuth2.0 App</h3>
@@ -50,23 +90,7 @@
         </p>
         <p>HTML, Handlebars, CSS, Materialize, JavaScript, Node.js, Express.js, MongoDB, Mongoose, Heroku, MVC pattern/architecture</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Client Website</h3>
-        <br />
-        <a target="_blank" href="https://github.com/sehjong/professional-speaker-client-website">
-            <img src="images/professional-speaker-client-website.png" width="100%" alt="Client Website Preview"/>
-        </a>
-        <br />
-        <p align="center"> 
-          <a href="https://github.com/sehjong/professional-speaker-client-website" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>
-          <a href="https://johndungy.com/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-        </p>
-        <p>HTML, SCSS, CSS, JavaScript</p>
-    </td>
+    
   </tr>
   
   <tr>
@@ -101,5 +125,6 @@
         </p>
         <p>A lecture on MVC pattern/architecture</p>
     </td>
+    
   </tr>  
 </table>
